@@ -1,12 +1,11 @@
 {
-  "name": "subway1",
+  "name": "M&T1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "build": "vite build",
     "dev": "vite",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
