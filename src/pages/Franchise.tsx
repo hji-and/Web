@@ -3,17 +3,17 @@ const milestones = [
     title: "신사 티룸",
     description:
       "신사티룸은 일상 속 놓치기 쉬운 감각에 집중할 수 있는 공간입니다. ",
-    img: "./tea-img/tea-set-4709640_1280.jpg",
+    img: "/tea-img/tea-set-4709640_1280.jpg",
   },
   {
     title: "성수 티룸",
     description: "성수티룸은 가장 일상적인 차를 제안합니다. ",
-    img: "./tea-img/green-tea-6078275_1280.jpg",
+    img: "/tea-img/green-tea-6078275_1280.jpg",
   },
   {
     title: "하동 티룸",
     description: "하동티룸은 다양한 차를 맛보고 시음할 수 있습니다. ",
-    img: "./tea-img/moc-chau-tea-hills-2094184_1280.jpg",
+    img: "/tea-img/moc-chau-tea-hills-2094184_1280.jpg",
   },
 ];
 export default function Franchise() {
